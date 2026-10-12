@@ -63,3 +63,5 @@ This application is based on following open source software:
 ## Licence
 
 pdftogether is licensed under the terms of the MIT License.
+
+<br>*First commit: 27.09.2023.*
